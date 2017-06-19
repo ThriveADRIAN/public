@@ -1,7 +1,7 @@
 # Summary
 
 * [README](README.md)
+* [Book of Beliefs](book-of-beliefs.md)
 * [Current Status](Now.md)
 * [Monthly Reports](Monthly.md)
-* Book of Beliefs
 
