@@ -1,3 +1,10 @@
-# My Awesome Book
+# About /public
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+This is a my attempt to have a public, accountable self. My goal is to discover how I view the world, and express it as concisely and honestly as possible so that others can let me know when I'm full of shit or missing something.
+
+The Book of Beliefs should mostly be fairly self-explanatory from there, but definitely let me know \(by adding a comment here, or DMing me \([on Twitter](https://twitter.com/adriancunanan)\) if you have any questions or comments about anything at all!
+
+## Proceed to👉Book of Beliefs
+
+
+
