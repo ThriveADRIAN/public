@@ -1,5 +1,5 @@
 # Summary
 
 * [README](README.md)
-* [First Chapter](chapter1.md)
+* [Book of Beliefs](chapter1.md)
 
