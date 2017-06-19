@@ -4,7 +4,7 @@ This is a my attempt to have a public, accountable self. My goal is to discover 
 
 The Book of Beliefs should mostly be fairly self-explanatory from there, but definitely let me know \(by adding a comment here, or DMing me \([on Twitter](https://twitter.com/adriancunanan)\) if you have any questions or comments about anything at all!
 
-## Proceed to 👉 [Book of Beliefs](https://github.com/ThinkADRIAN/public/blob/master/book-of-beliefs.md)
+## Proceed to 👉 [Book of Beliefs](https://thinkadrian.gitbooks.io/public/content/book-of-beliefs.html)
 
 
 
