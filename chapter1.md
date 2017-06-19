@@ -6,20 +6,19 @@ This document's purpose is to capture my beliefs about the universe, track how m
 
 ## Instructions
 
-**If you **_**are not **_Adrian:
+**If you **\_**are not **\_Adrian:
 
 1. Read this with the understanding that you are different than me — the way I live my life is not the way you should live yours.
 2. Read the [Glossary](https://github.com/busterbenson/public/blob/master/book-of-beliefs.md#glossary) for a general intro to my favorite ideas, starting with [What is this?](https://github.com/busterbenson/public/blob/master/book-of-beliefs.md#what-is-this), then come back and read through the [Beliefs](https://github.com/busterbenson/public/blob/master/book-of-beliefs.md#beliefs) that seem interesting to you.
 3. Check the [Changelog](https://github.com/busterbenson/public/commits/master) for updates since you last visited.
 4. Consider creating your own Codex \([here's a template](https://medium.com/@coachdotme/562e2a24d7d), or see how I started mine [back in 2012](https://github.com/busterbenson/public/blob/master/book-of-beliefs-2012.md)\).
 
-**If you **_**are **_Adrian:
+**If you **\_**are **\_Adrian:
 
 1. As often as you can: re-read your [Type 3 beliefs](https://github.com/busterbenson/public/blob/master/book-of-beliefs.md#type-3-opinions) \(opinions\).
 2. As things happen in the world, revisit and edit this document to reflect your changing beliefs.
 3. At the beginning of every year archive the document. Here's [2012](https://github.com/busterbenson/public/blob/master/book-of-beliefs-2012.md), [2013](https://github.com/busterbenson/public/blob/master/book-of-beliefs-2013.md), [2014](https://github.com/busterbenson/public/blob/master/book-of-beliefs-2014.md), [2015](https://github.com/busterbenson/public/blob/master/book-of-beliefs-2015.md), [2016](https://github.com/busterbenson/public/blob/master/book-of-beliefs-2016.md)
 4. Around your birthday every year, write a new [yearly report](https://github.com/busterbenson/public/blob/master/book-of-beliefs.md#yearly-reports).
-   .
 
 ## Table of contents
 
@@ -292,7 +291,7 @@ Posts about this topic:[Systems Thinking for Kids](https://medium.com/@buster/sy
 
 ### Soloverse
 
-This is my word for a particular idea I'm obsessed with. It goes something like this: the universe is this giant space/time environment \(or simulation?\) that we are all a part of. The_soloverse_is our mental model of that universe that our brain uses to_think about_the universe and everything in it. You can’t really think about the universe directly \(it’s way too big\), you can only think about your mental model of the universe as it exists in your soloverse. Lots of interesting \(to me\) side effects result from this distinction.
+This is my word for a particular idea I'm obsessed with. It goes something like this: the universe is this giant space/time environment \(or simulation?\) that we are all a part of. The\_soloverse\_is our mental model of that universe that our brain uses to\_think about\_the universe and everything in it. You can’t really think about the universe directly \(it’s way too big\), you can only think about your mental model of the universe as it exists in your soloverse. Lots of interesting \(to me\) side effects result from this distinction.
 
 I first came across this idea in 2013 and found some interesting explorations of the idea referenced by the word_umwelt_, which is German for “environment” or “surroundings” and pronounced_oom-velt_. I just made up the term soloverse because it’s easier for me to think of it as a private, working model of the universe in our minds.
 
@@ -302,7 +301,7 @@ Posts about this topic:[Universe ↔ Soloverse](https://medium.com/thought-exper
 
 The gist is that there are two kinds of knowledge: matters of fact, and relations of ideas. Matters of fact aren’t accessible to us—we can never know something for certain, only that it hasn't been proven wrong yet. We can only create a self-referencing network of ideas that are related to each other. What we think of as truth is merely the ability for a particular idea to fit into this network of ideas without causing irreconcilable contradictions.
 
-See \[the entry on Wikipedia\]\(\[\[\[\[[http://en.wikipedia.org/wiki/Hume's\_fork\]\(http://en.wikipedia.org/wiki/Hume's\_fork\)\]\(http://en.wikipedia.org/wiki/Hume's\_fork\]\(http://en.wikipedia.org/wiki/Hume's\_fork\)\)\]\(http://en.wikipedia.org/wiki/Hume's\_fork\]\(http://en.wikipedia.org/wiki/Hume's\_fork\)\]\(http://en.wikipedia.org/wiki/Hume's\_fork\]\(http://en.wikipedia.org/wiki/Hume's\_fork\)\)\)\]\(http://en.wikipedia.org/wiki/Hume's\_fork\]%28](http://en.wikipedia.org/wiki/Hume's_fork]%28http://en.wikipedia.org/wiki/Hume's_fork%29]%28http://en.wikipedia.org/wiki/Hume's_fork]%28http://en.wikipedia.org/wiki/Hume's_fork%29%29]%28http://en.wikipedia.org/wiki/Hume's_fork]%28http://en.wikipedia.org/wiki/Hume's_fork%29]%28http://en.wikipedia.org/wiki/Hume's_fork]%28http://en.wikipedia.org/wiki/Hume's_fork%29%29%29]%28http://en.wikipedia.org/wiki/Hume's_fork]%28)[http://en.wikipedia.org/wiki/Hume's\_fork%29\]%28http://en.wikipedia.org/wiki/Hume's\_fork\]%28http://en.wikipedia.org/wiki/Hume's\_fork%29%29\]%28http://en.wikipedia.org/wiki/Hume's\_fork\]%28http://en.wikipedia.org/wiki/Hume's\_fork%29\]%28http://en.wikipedia.org/wiki/Hume's\_fork\]%28http://en.wikipedia.org/wiki/Hume's\_fork%29%29%29\\)\](http://en.wikipedia.org/wiki/Hume's_fork%29%5D%28http://en.wikipedia.org/wiki/Hume's_fork%5D%28http://en.wikipedia.org/wiki/Hume's_fork%29%29%5D%28http://en.wikipedia.org/wiki/Hume's_fork%5D%28http://en.wikipedia.org/wiki/Hume's_fork%29%5D%28http://en.wikipedia.org/wiki/Hume's_fork%5D%28http://en.wikipedia.org/wiki/Hume's_fork%29%29%29%5C%29%5C)\) for a good intro to the idea.
+See \[the entry on Wikipedia\]\(\[\[\[\[\[[http://en.wikipedia.org/wiki/Hume's\_fork\]\(http://en.wikipedia.org/wiki/Hume's\_fork\)\]\(http://en.wikipedia.org/wiki/Hume's\_fork\]\(http://en.wikipedia.org/wiki/Hume's\_fork\)\)\]\(http://en.wikipedia.org/wiki/Hume's\_fork\]\(http://en.wikipedia.org/wiki/Hume's\_fork\)\]\(http://en.wikipedia.org/wiki/Hume's\_fork\]\(http://en.wikipedia.org/wiki/Hume's\_fork\)\)\)\]\(http://en.wikipedia.org/wiki/Hume's\_fork\]\(\]\(http://en.wikipedia.org/wiki/Hume's\_fork\]\(http://en.wikipedia.org/wiki/Hume's\_fork\)\]\(http://en.wikipedia.org/wiki/Hume's\_fork\]\(http://en.wikipedia.org/wiki/Hume's\_fork\)\)\]\(http://en.wikipedia.org/wiki/Hume's\_fork\]\(http://en.wikipedia.org/wiki/Hume's\_fork\)\]\(http://en.wikipedia.org/wiki/Hume's\_fork\]\(http://en.wikipedia.org/wiki/Hume's\_fork\)\)\)\]\(http://en.wikipedia.org/wiki/Hume's\_fork\]\(\)\[http://en.wikipedia.org/wiki/Hume's\_fork\)\]\(http://en.wikipedia.org/wiki/Hume's\_fork\]\(http://en.wikipedia.org/wiki/Hume's\_fork\)\)\]\(http://en.wikipedia.org/wiki/Hume's\_fork\]\(http://en.wikipedia.org/wiki/Hume's\_fork\)\]\(http://en.wikipedia.org/wiki/Hume's\_fork\]\(http://en.wikipedia.org/wiki/Hume's\_fork\)\)\)\\)\]\(http://en.wikipedia.org/wiki/Hume's\_fork\)\]\(http://en.wikipedia.org/wiki/Hume's\_fork\]\(http://en.wikipedia.org/wiki/Hume's\_fork\)\)\]\(http://en.wikipedia.org/wiki/Hume's\_fork\]\(http://en.wikipedia.org/wiki/Hume's\_fork\)\]\(http://en.wikipedia.org/wiki/Hume's\_fork\]\(http://en.wikipedia.org/wiki/Hume's\_fork\)\)\)\)\)\](http://en.wikipedia.org/wiki/Hume's_fork]%28http://en.wikipedia.org/wiki/Hume's_fork%29]%28http://en.wikipedia.org/wiki/Hume's_fork]%28http://en.wikipedia.org/wiki/Hume's_fork%29%29]%28http://en.wikipedia.org/wiki/Hume's_fork]%28http://en.wikipedia.org/wiki/Hume's_fork%29]%28http://en.wikipedia.org/wiki/Hume's_fork]%28http://en.wikipedia.org/wiki/Hume's_fork%29%29%29]%28http://en.wikipedia.org/wiki/Hume's_fork]%28]%28http://en.wikipedia.org/wiki/Hume's_fork]%28http://en.wikipedia.org/wiki/Hume's_fork%29]%28http://en.wikipedia.org/wiki/Hume's_fork]%28http://en.wikipedia.org/wiki/Hume's_fork%29%29]%28http://en.wikipedia.org/wiki/Hume's_fork]%28http://en.wikipedia.org/wiki/Hume's_fork%29]%28http://en.wikipedia.org/wiki/Hume's_fork]%28http://en.wikipedia.org/wiki/Hume's_fork%29%29%29]%28http://en.wikipedia.org/wiki/Hume's_fork]%28%29[http://en.wikipedia.org/wiki/Hume's_fork%29]%28http://en.wikipedia.org/wiki/Hume's_fork]%28http://en.wikipedia.org/wiki/Hume's_fork%29%29]%28http://en.wikipedia.org/wiki/Hume's_fork]%28http://en.wikipedia.org/wiki/Hume's_fork%29]%28http://en.wikipedia.org/wiki/Hume's_fork]%28http://en.wikipedia.org/wiki/Hume's_fork%29%29%29\%29]%28http://en.wikipedia.org/wiki/Hume's_fork%29]%28http://en.wikipedia.org/wiki/Hume's_fork]%28http://en.wikipedia.org/wiki/Hume's_fork%29%29]%28http://en.wikipedia.org/wiki/Hume's_fork]%28http://en.wikipedia.org/wiki/Hume's_fork%29]%28http://en.wikipedia.org/wiki/Hume's_fork]%28http://en.wikipedia.org/wiki/Hume's_fork%29%29%29%29%29\)\) for a good intro to the idea.
 
 ### Optionality
 
@@ -334,72 +333,72 @@ Writing I've loved and come back to a bunch of times.
 
 * [Rational Emotive Behavior Therapy](http://en.wikipedia.org/wiki/Rational_emotive_behavior_therapy)
 * [The Cook and the Chef: Musk's Secret Sauce](http://waitbutwhy.com/2015/11/the-cook-and-the-chef-musks-secret-sauce.html)
-  - Tim Urban
+  * Tim Urban
 * [Your Life in Weeks](http://waitbutwhy.com/2014/05/life-weeks.html)
-  - Tim Urban
+  * Tim Urban
 * [On conversational UIs](http://interconnected.org/home/2015/06/16/conversational_uis)
-  - Matt Webb
+  * Matt Webb
 * [The Web's Grain](http://frankchimero.com/talks/the-webs-grain/transcript/)
-  - Frank Chimero
+  * Frank Chimero
 * [Ten Reasons Why Our Universe Is A Virtual Reality](http://listverse.com/2014/11/26/10-reasons-why-our-universe-is-a-virtual-reality/)
-  - Brian Whitworth
+  * Brian Whitworth
 * [The Technology](http://paulbuchheit.blogspot.com/2014/07/the-technology.html)
-  - Paul Buchheit
+  * Paul Buchheit
 * [Neurons Gone Wild](http://kevinsimler.quora.com/Neurons-Gone-Wild)
-  - Kevin Simler
+  * Kevin Simler
 * [When We Build](http://vimeo.com/34017777)
-  - Wilson Miner
+  * Wilson Miner
 * [We Aren't the World](http://www.psmag.com/magazines/magazine-feature-story-magazines/joe-henrich-weird-ultimatum-game-shaking-up-psychology-economics-53135/)
-  - Ethan Watters
+  * Ethan Watters
 * [The Elephants](https://medium.com/health-the-future/182870501589)
-  - Nick Crocker
+  * Nick Crocker
 * [Touching the Wild](https://seriouspony.exposure.co/touching-the-wild)
-  - Kathy Sierra
+  * Kathy Sierra
 * [The Crossroads of Should and Must](https://medium.com/medium-long/90c75eb7c5b0)
-  - Elle Luna
+  * Elle Luna
 * [Welcome to the Future Nauseous](http://www.ribbonfarm.com/2012/05/09/welcome-to-the-future-nauseous/)
-  - Venkatesh Rao
+  * Venkatesh Rao
 * [UX and the Civilizing Process](http://kevinsimler.quora.com/UX-and-the-Civilizing-Process)
-  - Kevin Simler
+  * Kevin Simler
 * [Navigating Stuckness](http://transom.org/?p=41667)
-  - Jonathan Harris
+  * Jonathan Harris
 * [Stock and Flow](http://snarkmarket.com/2010/4890)
-  - Robin Sloan
+  * Robin Sloan
 * [WWIC](http://www.ftrain.com/wwic.html)
-  - Paul Ford
+  * Paul Ford
 * [Top of Mind](http://www.paulgraham.com/top.html)
-  - Paul Graham
+  * Paul Graham
 * [Fish](http://www.robinsloan.com/fish/)
-  - Robin Sloan
+  * Robin Sloan
 
 ### Books
 
 Each of these books has changed how I see the world.
 
 * [The Big Picture](https://www.amazon.com/Big-Picture-Origins-Meaning-Universe/dp/0525954821)
-  - Sean Carroll
+  * Sean Carroll
 * [Liminal Thinking](https://www.amazon.com/Liminal-Thinking-Create-Change-Changing-ebook/dp/B01LZS4SLO)
-  - Dave Gray
+  * Dave Gray
 * [I Am a Strange Loop](https://www.amazon.com/Am-Strange-Loop-Douglas-Hofstadter-ebook/dp/B004PYDBS0)
-  - Douglas Hoftstadter
+  * Douglas Hoftstadter
 * [You're It](http://www.amazon.com/Youre-It-Hiding-Seeking-Being/dp/1591797349)
-  - Alan Watts
+  * Alan Watts
 * [The Wisdom of Insecurity](https://www.amazon.com/Wisdom-Insecurity-Alan-W-Watts-ebook/dp/B005YNPBH0)
-  - Alan Watts
+  * Alan Watts
 * [On Intelligence](http://www.amazon.com/On-Intelligence-Jeff-Hawkins/dp/0805078533)
-  - Jeff Hawkins
+  * Jeff Hawkins
 * [Waking Up](http://www.amazon.com/Waking-Up-Spirituality-Without-Religion/dp/1451636016)
-  - Sam Harris
+  * Sam Harris
 * [Creativity, Inc](http://www.amazon.com/Creativity-Inc-Overcoming-Unseen-Inspiration/dp/0804127441)
-  - Ed Catmull
+  * Ed Catmull
 * [The Fifth Discipline](http://www.amazon.com/The-Fifth-Discipline-Practice-Organization/dp/0553456342)
-  - Peter M. Senge
+  * Peter M. Senge
 * [Antifragile](http://www.amazon.com/Antifragile-Things-That-Gain-Disorder/dp/1400067820/)
-  - Nassim Nicholas Taleb
+  * Nassim Nicholas Taleb
 * [Thinking Fast and Slow](http://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555)
-  - Daniel Kahneman
+  * Daniel Kahneman
 * [Strangers To Ourselves](http://www.amazon.com/Strangers-Ourselves-Discovering-Adaptive-Unconscious/dp/0674013824)
-  - Timothy D. Wilson Deutsch
+  * Timothy D. Wilson Deutsch
 
 ### My writing
 
