@@ -2,7 +2,7 @@
 
 _Last updated: June 21st, 2017._
 
-This page is accessible from [here](https://github.com/ThinkADRIAN/public/blob/master/README.md), and was inspired by [this post by Derek Sivers](https://sivers.org/nowff).
+This page is accessible from[ here](https://github.com/ThinkADRIAN/public/blob/master/current-status.md), and was inspired by [this post by Derek Sivers](https://sivers.org/nowff).
 
 Here's what I'm doing now:
 
