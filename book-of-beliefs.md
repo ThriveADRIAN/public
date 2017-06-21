@@ -31,27 +31,27 @@ This document's purpose is to capture my beliefs about the universe, track how m
 
 #### Glossary
 
-* [What is this?](https://github.com/busterbenson/public/blob/master/book-of-beliefs.md#what-is-this)
-* [Codex vitae](https://github.com/busterbenson/public/blob/master/book-of-beliefs.md#codex-vitae)
-* [Quality time](https://github.com/busterbenson/public/blob/master/book-of-beliefs.md#quality-time)
-* [Systems thinking](https://github.com/busterbenson/public/blob/master/book-of-beliefs.md#systems-thinking)
-* [Soloverse](https://github.com/busterbenson/public/blob/master/book-of-beliefs.md#soloverse)
-* [Hume’s fork](https://github.com/busterbenson/public/blob/master/book-of-beliefs.md#humes-fork)
-* [Optionality](https://github.com/busterbenson/public/blob/master/book-of-beliefs.md#optionality)
-* [Primes](https://github.com/busterbenson/public/blob/master/book-of-beliefs.md#primes)
-* [Quantum realism](https://github.com/busterbenson/public/blob/master/book-of-beliefs.md#quantum-realism)
-* [Poetic naturalism](https://github.com/busterbenson/public/blob/master/book-of-beliefs.md#poetic-naturalism)
+* [What is this?](https://github.com/ThinkADRIAN/public/blob/master/book-of-beliefs.md#type-4-predictions)
+* [Codex vitae](https://github.com/ThinkADRIAN/public/blob/master/book-of-beliefs.md#codex-vitae)
+* [Quality time](https://github.com/ThinkADRIAN/public/blob/master/book-of-beliefs.md#quality-time)
+* [Systems thinking](https://github.com/ThinkADRIAN/public/blob/master/book-of-beliefs.md#quality-time)
+* [Soloverse](https://github.com/ThinkADRIAN/public/blob/master/book-of-beliefs.md#soloverse)
+* [Hume’s fork](https://github.com/ThinkADRIAN/public/blob/master/book-of-beliefs.md#humes-fork)
+* [Optionality](https://github.com/ThinkADRIAN/public/blob/master/book-of-beliefs.md#optionality)
+* [Primes](https://github.com/ThinkADRIAN/public/blob/master/book-of-beliefs.md#primes)
+* [Quantum realism](https://github.com/ThinkADRIAN/public/blob/master/book-of-beliefs.md#quantum-realism)
+* [Poetic naturalism](https://github.com/ThinkADRIAN/public/blob/master/book-of-beliefs.md#poetic-naturalism)
 
 #### Personal canon
 
-* [Articles](https://github.com/busterbenson/public/blob/master/book-of-beliefs.md#articles)
-* [Books](https://github.com/busterbenson/public/blob/master/book-of-beliefs.md#books)
-* [My writing](https://github.com/busterbenson/public/blob/master/book-of-beliefs.md#my-writing)
+* [Articles](https://github.com/ThinkADRIAN/public/blob/master/book-of-beliefs.md#articles)
+* [Books](https://github.com/ThinkADRIAN/public/blob/master/book-of-beliefs.md#books)
+* [My writing](https://github.com/ThinkADRIAN/public/blob/master/book-of-beliefs.md#my-writing)
 
 #### Changelog
 
-* [History of changes to this document](https://github.com/busterbenson/public/commits/master/Codex.md)
-* [Yearly reports](https://github.com/busterbenson/public/blob/master/book-of-beliefs.md#yearly-reports)
+* [History of changes to this document](https://github.com/ThinkADRIAN/public/blob/master/book-of-beliefs.md#commit-history)
+* [Yearly reports](https://github.com/ThinkADRIAN/public/blob/master/book-of-beliefs.md#yearly-reports)
 
 ## Beliefs
 
