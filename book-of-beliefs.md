@@ -11,14 +11,14 @@ This document's purpose is to capture my beliefs about the universe, track how m
 1. Read this with the understanding that you are different than me — the way I live my life is not the way you should live yours.
 2. Read the [Glossary](https://github.com/ThinkADRIAN/public/blob/master/book-of-beliefs.md#glossary) for a general intro to my favorite ideas, starting with [What is this?](https://github.com/ThinkADRIAN/public/blob/master/book-of-beliefs.md#what-is-this), then come back and read through the [Beliefs](https://github.com/ThinkADRIAN/public/blob/master/book-of-beliefs.md#beliefs) that seem interesting to you.
 3. Check the [Changelog](https://github.com/ThinkADRIAN/public/blob/master/book-of-beliefs.md#changelog) for updates since you last visited.
-4. Consider creating your own Codex \([here's a template](https://medium.com/@coachdotme/562e2a24d7d), or see how I started mine [back in 2012](https://github.com/ThinkADRIAN/public/blob/master/book-of-beliefs-2017)\).
+4. Consider creating your own Codex \([here's a template](https://medium.com/@coachdotme/562e2a24d7d), or see how I started mine [back in 2017](https://github.com/ThinkADRIAN/public/blob/master/book-of-beliefs-2017.md)\).
 
 **If you are **Adrian:
 
-1. As often as you can: re-read your [Type 3 beliefs](https://github.com/busterbenson/public/blob/master/book-of-beliefs.md#type-3-opinions) \(opinions\).
+1. As often as you can: re-read your [Type 3 beliefs](https://github.com/ThinkADRIAN/public/blob/master/book-of-beliefs.md#type-3-opinions) \(opinions\).
 2. As things happen in the world, revisit and edit this document to reflect your changing beliefs.
-3. At the beginning of every year archive the document. Here's [2012](https://github.com/busterbenson/public/blob/master/book-of-beliefs-2012.md), [2013](https://github.com/busterbenson/public/blob/master/book-of-beliefs-2013.md), [2014](https://github.com/busterbenson/public/blob/master/book-of-beliefs-2014.md), [2015](https://github.com/busterbenson/public/blob/master/book-of-beliefs-2015.md), [2016](https://github.com/busterbenson/public/blob/master/book-of-beliefs-2016.md)
-4. Around your birthday every year, write a new [yearly report](https://github.com/busterbenson/public/blob/master/book-of-beliefs.md#yearly-reports).
+3. At the beginning of every year archive the document. Here's[ 2017](https://github.com/ThinkADRIAN/public/blob/master/book-of-beliefs-2017.md).
+4. Around your birthday every year, write a new[ yearly report](https://github.com/ThinkADRIAN/public/blob/master/book-of-beliefs#yearly-reports).
 
 ## Table of contents
 
