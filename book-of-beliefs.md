@@ -24,10 +24,10 @@ This document's purpose is to capture my beliefs about the universe, track how m
 
 #### Beliefs
 
-* [Type 1: Metabeliefs: beliefs about beliefs](https://github.com/busterbenson/public/blob/master/book-of-beliefs.md#type-1-metabeliefs)
-* [Type 2: Perceptions: beliefs about how reality seems to be](https://github.com/busterbenson/public/blob/master/book-of-beliefs.md#type-2-perceptions)
-* [Type 3: Opinions: beliefs about the meaning of reality and how myself and others should approach life](https://github.com/busterbenson/public/blob/master/book-of-beliefs.md#type-3-opinions)
-* [Type 4: Predictions: beliefs about how things will be in the future](https://github.com/busterbenson/public/blob/master/book-of-beliefs.md#type-4-predictions)
+* [Type 1: Metabeliefs: beliefs about beliefs](https://github.com/ThinkADRIAN/public/blob/master/book-of-beliefs.md#type-1-metabeliefs)
+* [Type 2: Perceptions: beliefs about how reality seems to be](https://github.com/ThinkADRIAN/public/blob/master/book-of-beliefs.md#type-2-perceptions)
+* [Type 3: Opinions: beliefs about the meaning of reality and how myself and others should approach life](https://github.com/ThinkADRIAN/public/blob/master/book-of-beliefs.md#type-3-opinions)
+* [Type 4: Predictions: beliefs about how things will be in the future](https://github.com/ThinkADRIAN/public/blob/master/book-of-beliefs.md#type-4-predictions)
 
 #### Glossary
 
