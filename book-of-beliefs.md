@@ -9,9 +9,9 @@ This document's purpose is to capture my beliefs about the universe, track how m
 **If you are not **Adrian:
 
 1. Read this with the understanding that you are different than me — the way I live my life is not the way you should live yours.
-2. Read the [Glossary](https://thinkadrian.gitbooks.io/public/content/book-of-beliefs.html#Glossary) for a general intro to my favorite ideas, starting with [What is this?](https://github.com/busterbenson/public/blob/master/book-of-beliefs.md#what-is-this), then come back and read through the [Beliefs](https://github.com/busterbenson/public/blob/master/book-of-beliefs.md#beliefs) that seem interesting to you.
-3. Check the [Changelog](https://github.com/busterbenson/public/commits/master) for updates since you last visited.
-4. Consider creating your own Codex \([here's a template](https://medium.com/@coachdotme/562e2a24d7d), or see how I started mine [back in 2012](https://github.com/busterbenson/public/blob/master/book-of-beliefs-2012.md)\).
+2. Read the [Glossary](https://github.com/ThinkADRIAN/public/blob/master/book-of-beliefs.md#glossary) for a general intro to my favorite ideas, starting with [What is this?](https://github.com/ThinkADRIAN/public/blob/master/book-of-beliefs.md#what-is-this), then come back and read through the [Beliefs](https://github.com/ThinkADRIAN/public/blob/master/book-of-beliefs.md#beliefs) that seem interesting to you.
+3. Check the [Changelog](https://github.com/ThinkADRIAN/public/blob/master/book-of-beliefs.md#changelog) for updates since you last visited.
+4. Consider creating your own Codex \([here's a template](https://medium.com/@coachdotme/562e2a24d7d), or see how I started mine [back in 2012](https://github.com/ThinkADRIAN/public/blob/master/book-of-beliefs-2017)\).
 
 **If you are **Adrian:
 
