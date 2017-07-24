@@ -1,6 +1,6 @@
 # Book of Beliefs
 
-_Last updated by Adrian Cunanan on June 21st, 2017._
+_Last updated by Adrian Cunanan on July 24th, 2017._
 
 This document's purpose is to capture my beliefs about the universe, track how my thoughts change over time, and act an invitation to others to hold me accountable to my beliefs and commitments.
 
@@ -121,6 +121,14 @@ My take on the spiritual and supernatural.
 * There is no heaven or hell.  There is only the oscillation between light and dark.  \(We have named the period between these polar states of energy as "Time"\)
 * We have no cosmic significance. Other than that the cosmos is significant and we are part of it.
 * There is Love and the Absence of Love.  They are constantly in existence and just like energy their is an oscillation between them.  The mean average is what we call "Life".  The extreme poles are what most refer to as "Heaven" and "Hell".
+
+
+
+---
+
+### ^^^ Text Above Line Are The Beliefs of Adrian Cunanan ^^^
+
+
 
 #### 2D Perceptions: Explanatory
 
