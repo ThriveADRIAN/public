@@ -111,7 +111,7 @@ My take on the spiritual and supernatural.
 * Frequently remembering we will die increases the quality of our life.
 * We are constantly in a cycle of birth, death, and rebirth that can be embraced to better equip us for the next cycle of rebirth.
 * All things are made up of energy/waves that is never created or destroyed.  Energy/waves are rather transformed... And so it is with life.
-* We all have a purpose to transform into higher wavelengths of energy until we become light and then transform into darkness.  It is through darkness that light is born.  \(i.e. Phi Alpha\)
+* We all have a purpose to transform into higher wavelengths of energy until we become light and then transform into darkness.  It is through darkness that light is born.
 * My self-declared purpose as a human is to strive for a life of virtue/excellence through the realization of the highest version of myself moment to moment.
 * The universe conspires to help you to achieve all things you desire in your lifetime and gratitude serves as the greatest mindset to assist the universe in this mission. 
 * Souls don't exist as separate from the physical body.
