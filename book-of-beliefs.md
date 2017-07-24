@@ -109,16 +109,18 @@ My take on the spiritual and supernatural.
 
 * We will die.
 * Frequently remembering we will die increases the quality of our life.
-* We don't have a purpose given to us, but it's okay if we make one up.
-* My self-declared purpose is to enjoy quality time \(with myself, with others, and with my interests\) by discovering and removing obstacles that hinder quality time.
-* Life is already lost. The only honest way to approach it is from a perspective of gratitude.
+* We are constantly in a cycle of birth, death, and rebirth that can be embraced to better equip us for the next cycle of rebirth.
+* All things are made up of energy/waves and just like energy is never created or destroyed.  Energy/waves are rather transformed... And so it is with life.
+* We all have a purpose to transform into higher wavelengths of energy until we become light and then transform into darkness.  It is through darkness that light is born.  \(i.e. Phi Alpha\)
+* My self-declared purpose as a human is to strive for a life of virtue/excellence through the realization of the highest version of myself moment to moment.
+* The universe conspires to help you to achieve all things you desire in your lifetime and gratitude serves as the greatest mindset to assist the universe in this mission. 
 * Souls don't exist as separate from the physical body.
-* The gods of organized religion don't exist.
-* Intention can't create reality \(it just primes our perception of it, and makes us more likely to notice opportunities\).
-* Astrology is \(fun\) entertainment, like the Myers Briggs test.
-* Science can't explain everything, it can only prove things wrong.
-* There is no heaven or hell.
+* The universe, love, and God\(s\) are one in the same and organized religions have merely named their vantage point of this source of energy.
+* Intention can create reality \(it is our way to communicate to the Universe that which we desire, and makes us more likely to notice opportunities\).
+* Science can't explain everything, it can only prove things wrong as we attempt to explain what is true.
+* There is no heaven or hell.  There is only the oscillation between light and dark.  \(We have named the period between these polar states of energy as "Time"\)
 * We have no cosmic significance. Other than that the cosmos is significant and we are part of it.
+* There is Love and the Absence of Love.  They are constantly in existence and just like energy their is an oscillation between them.  The mean average is what we call "Life".  The extreme poles are what most refer to as "Heaven" and "Hell".
 
 #### 2D Perceptions: Explanatory
 
