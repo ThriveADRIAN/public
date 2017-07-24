@@ -76,34 +76,32 @@ How reality seems to be. 2A is about cognitive biases, 2B is about how my mind a
 
 A summary of the ways that I believe my mind distorts what it sees.
 
-* There are 4 qualities of the universe that limit our own intelligence and the intelligence of every other person, collective, organism, machine, alien, or imaginable god.
-* All 200ish of our known biases are attempts to work around these conundrums.
-* All of my sensing and thinking and behavior is subject to biases. Knowing that this is true doesn't stop it from being true.
-* Misjudgment due to biases isn't correlated with intelligence.
-* The 1st conundrum is that there’s too much information in the universe for any individual within the universe to process it all.
-* The 2nd conundrum is that the process of turning raw information into something meaningful requires connecting the dots between the limited information that’s made it to you and the catalog of mental models, beliefs, symbols, and associations that you’ve stored from previous experiences.
-* The 3rd conundrum is that there just isn’t enough time in the moment/day/lifetime to thoroughly consider and analyze all possibilities to make sure we’re making the right decisions and taking the right actions.
-* The 4th conundrum is that there’s not enough space in our brains, or in all of the matter in the universe, to store all the raw information, all the symbols and stories, and all of the past decisions that we’ve made.
-* The more we know about biases, the more susceptible we are to thinking we're no longer affected by them. This makes us even blinder to them.
+* Fundamentally, we are animals in survival mode.
+* As mankind has evolved, the need to survive has decreased with the advent and advancement of technology.
+* Yet, the survival instinct has been ingrained via evolution up until today for around 6 million years with civilization as we know it is only about 6,000 years old, and industrialization started in the earnest only in the 1800s.
+* Our minds are doing there best to keep up with the rapid rate of advancement with technology.
+* We must rewire our minds to adapt to this new way of life in the information age.
+* Survival depends on this as out collective knowledge is further connected and eventually united into a singular consciousness.
+* Our minds are biased and confused by the goal of survival.
+* It is quite likely not capable of handling a singular knowledge of all that is known.
 
 #### 2B Perceptions: Senses
 
 Personal mental and physical abilities, and constraints.
 
-* Perception/sensation is the awareness of things changing. We can't perceive or sense things that aren't changing.
-* Free will is mostly an illusion, but a nice one to keep because it is highly practical.
-* The rational brain is a good tool for understanding but it is not the only tool. Intuition, heart, soul, spirit, senses, body: all of these are also good.
-* We are all building an incomplete model of the universe in our heads and usually operate under the assumption that this model is the real universe \(again, it's practical\).
-* Our mental model of the universe evolved so we could better predict and act on long-term threats and opportunities.
+* Perception/sensation is only completely experienced in the moment and any attempt to recall it is a shadow of time as the next moment consistently happens upon us.  Yet, this poses the question: Is there one singular moment or a series of moments passing us by with the passage of time?
+* Free will/choice in reaction to the current variables of reality in an attempt to influence the future state of reality is the only truth. However, an individual's choices will never be independent of the choices of others or variables that are outside of our control.
+* The rational brain is a good tool for understanding but it is not the only tool. Intuition, heart, soul, spirit, senses, body: all of these are also good. I need to work on both remembering and embracing this idea.
+* What we know of the universe is limited to what we can perceive through the 5 known senses.  It is possible to achieve a greater and higher fidelity understanding of the universe through development of yet unknown senses.
+* Our mental model of the universe evolved so we could better understand, predict, and act on long-term threats and opportunities.
 * The best way for our brains to model predictions is to create stories.
 * Consciousness receives a stream of observer moments and turns them into stories.
 * Each observer moment is a static model of the universe captured in freeze frame, with a frozen model of the past, present, future, and every concept. It gets updated anew each moment, along with a fading memory of past moments.
 * Consciousness is the sensation of our mental model of the universe constantly changing itself to integrate new information.
 * Consciousness evolved to allow our mental model of the universe to examine, repair, and improve itself.
-* Playing lots of games \(of any kind: video, board, card, other\) will make us build more accurate models of the universe than people who don’t.
+* Practicing creative problem solving will make us build more accurate models of the universe than people who don’t.
 * We can change our behavior and habits but it requires a ridiculous amount of energy.
 * Most of the time \(if not all of the time\) we don’t change ourselves, but are rather changed by other things. That doesn’t mean we can’t tell a story about how we changed ourselves, and believe it.
-* We create mental heuristics to reduce the amount of energy to retrieve, sort, and select from lists of likely possibilities.
 
 #### 2C Perceptions: Supersenses
 
