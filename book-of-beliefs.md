@@ -122,13 +122,9 @@ My take on the spiritual and supernatural.
 * We have no cosmic significance. Other than that the cosmos is significant and we are part of it.
 * There is Love and the Absence of Love.  They are constantly in existence and just like energy their is an oscillation between them.  The mean average is what we call "Life".  The extreme poles are what most refer to as "Heaven" and "Hell".
 
-
-
 ---
 
 ### ^^^ Text Above Line Are The Beliefs of Adrian Cunanan ^^^
-
-
 
 #### 2D Perceptions: Explanatory
 
@@ -139,7 +135,7 @@ Science, politics, and the universe.
 * Micro and macro evolution happens.
 * Something like the Big Bang happened, and will probably happen again.
 * Something existed before the Big Bang \(outside of time and space as we know them\).
-* Nothing in our universe can travel faster than light.
+* Nothing in our universe can 2travel faster than light.
 * The human brain \(in its current state of evolution\) can't comprehend the universe.
 * Non-carbon-based life forms exist.
 * Aliens exist, but we will most likely discover their creations \(ie. robots they made\) before we discover them.
