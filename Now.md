@@ -1,15 +1,15 @@
 # What Adrian is doing now
 
-_Last updated: June 21st, 2017._
+_Last updated: June 18th, 2019._
 
 This page is accessible from [here](https://thinkadrian.gitbooks.io/public/content/Now.html), and was inspired by [this post by Derek Sivers](https://sivers.org/nowff).
 
 Here's what I'm doing now:
 
-* Living in Brooklyn, NY, with Kayo, Kai, Anthony, JP, and Alyssa.
-* Working at [Blue Mesa Health](https://www.bluemesahealth.com/) as Director of User Experience.
-* Available for consulting work at [The Start Code](https://thestartcode.com/).
-* Helping Kayo keep [BK Sensei](http://bksensei.com/) up and running.
+* Living in Brooklyn, NY, with Kayo, Kai, Alyssa, John, and Gabriel.
+* Working at [Genoa Healthcare](https://www.genoatelepsychiatry.com/) as Director of User Experience.
+* Helping Kai with making his life an "Amazing and Excellent Adventure" at [Future Kreative](https://futurekreative.com/).
+* Helping Kayo keep [BK Sensei](https://bksensei.com/) up and running.
 
 
 
