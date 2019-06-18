@@ -7,7 +7,7 @@ This page is accessible from [here](https://thinkadrian.gitbooks.io/public/conte
 Here's what I'm doing now:
 
 * Living in Brooklyn, NY, with Kayo, Kai, Alyssa, John, and Gabriel.
-* Working at [Genoa Healthcare](https://www.genoatelepsychiatry.com/) as Director of User Experience.
+* Working at [Genoa Healthcare](https://www.genoatelepsychiatry.com/) as Senior Product Manager.
 * Helping Kai with making his life an "Amazing and Excellent Adventure" at [Future Kreative](https://futurekreative.com/).
 * Helping Kayo keep [BK Sensei](https://bksensei.com/) up and running.
 
